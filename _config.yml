@@ -64,7 +64,7 @@ toc: true
 
 assets:
   self_host:
-    enabled: 
+    enabled: true
     env: 
 
 pwa:
@@ -148,3 +148,8 @@ jekyll-archives:
 
     baseurl: "/im7roy"  # NOME DO TEU REPOSITÓRIO!
 url: "https://im7roy.github.io"  # TUA URL BASE!
+
+assets:
+  self_host:
+    enabled: true
+
