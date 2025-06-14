@@ -153,3 +153,11 @@ assets:
   self_host:
     enabled: true
 
+# ATIVA OS ASSETS LOCAIS!
+    enabled: true
+
+# OTIMIZAÇÕES EXTRA:
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
