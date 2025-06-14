@@ -145,3 +145,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+    baseurl: "/im7roy"  # NOME DO TEU REPOSITÓRIO!
+url: "https://im7roy.github.io"  # TUA URL BASE!
